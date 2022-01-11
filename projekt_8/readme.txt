@@ -1,0 +1,1 @@
+Należy uruchomić najpierw server.py, a potem client.py w osobnym terminalu i patrzeć, jak dzieje się magia.
