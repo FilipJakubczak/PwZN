@@ -11,7 +11,7 @@ parser.add_argument('-J', help="J")
 parser.add_argument('-beta', help="Beta")
 parser.add_argument('-B', help="B field value.")
 parser.add_argument('-steps', help="Number of iterations. ")
-parser.add_argument('-n_image', nargs='?', default="step", help="Every how many images should be saved. (default=100)")
+parser.add_argument('-n_image', nargs='?', default="100", help="Every how many images should be saved. (default=100)")
 
 parser.add_argument('-density', nargs='?', default=0.5, help="Initial spin density (default=0.5).")
 parser.add_argument('-img_file', nargs='?', default="step", help="Out filename (default=step).")
